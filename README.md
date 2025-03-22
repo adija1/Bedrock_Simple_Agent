@@ -87,6 +87,7 @@ cdk deploy KbInfraStack
 ![image](https://github.com/user-attachments/assets/3ecec30c-3576-4917-a3bd-809f283fddba)
 
 4. Test with knowledge base, you can ask anything from the document, for example ask about the greenhouse effect and you will see that the agent will also reference the document:
+   
 ![image](https://github.com/user-attachments/assets/ee250898-f545-4499-9ba0-57f160ec8127)
 
 5. Test the action group by asking about temperature of a City and see how it uses the Lambda function
